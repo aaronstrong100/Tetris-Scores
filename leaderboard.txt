@@ -16,3 +16,5 @@ echo test;184
 ECHO is on.
 stop the e;186
 ECHO is off.
+stop echoi;162
+ECHO is off.
