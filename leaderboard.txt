@@ -18,3 +18,5 @@ stop the e;186
 ECHO is off.
 stop echoi;162
 ECHO is off.
+please don;192
+please don;192
