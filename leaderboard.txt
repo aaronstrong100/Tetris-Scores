@@ -14,3 +14,5 @@ no echoooo;218
 ECHO is on.
 echo test;184
 ECHO is on.
+stop the e;186
+ECHO is off.
