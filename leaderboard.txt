@@ -5,3 +5,4 @@ Newest;200
 wwwww;178
 please;180
 work work;136
+yeah;166
