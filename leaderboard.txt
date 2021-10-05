@@ -6,4 +6,3 @@ Greg;774
 Rose;3484
 andre;749
 Best Aaron;65951
-Aubrey;19596
